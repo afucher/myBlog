@@ -102,4 +102,4 @@ stylus:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy: 
   type: heroku
-  repo: https://github.com/afucher/myBlog.git
+  repo: git@heroku.com:xpto-blog.git
